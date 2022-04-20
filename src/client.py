@@ -1,6 +1,6 @@
 import socket
 import os
-from src import *
+from arc import *
 HEADER = 64 #64 bytes
 PORT = 5050
 FORMAT = 'utf-8'
